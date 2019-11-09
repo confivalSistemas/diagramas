@@ -1,2 +1,2 @@
-# diagramas
-Operation draft diagrams in order to check feasibility and software operation
+# Diagramas
+Initial diagrams will be pulled, everything is subject to changes and can be modified.
